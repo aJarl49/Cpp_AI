@@ -20,9 +20,9 @@ int main (){
     sub=num_1-num_2;
     mul=num_1*num_2;
     div=num_1/num_2;
-    cout<<"Your numbers added give ", add;
-    cout<<"Your numbers subtracted give ", sub;
-    cout<<"Your numbers multiplied give", mul;
-    cout<<"Your number divided give", div;
+    cout<<"Your numbers added give "<<add<<std::endl;
+    cout<<"Your numbers subtracted give "<<sub<<std::endl;
+    cout<<"Your numbers multiplied give "<<mul<<std::endl;
+    cout<<"Your number divided give "<<div<<std::endl;
     return 0;
 } // cannot edit in read-only editor: how to run it interminal?
